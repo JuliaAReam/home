@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Test 1
+    - name: Test 2
 
 footer:
   show_powered_by: true
