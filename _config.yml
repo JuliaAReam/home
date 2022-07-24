@@ -13,8 +13,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Test 1
-    - name: Test 2
+    - name: Research
+    - name: Teaching
+    - name: CV
+    - name: Other
 
 footer:
   show_powered_by: true
