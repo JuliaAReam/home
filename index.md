@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  My research involves using hybrid numerical methods to better understand for complex fluids and multiphysics systems.
+  My research focuses on developing and using hybrid numerical methods to better understand complex fluids and multiphysics systems.
 </p>
 
 <p>
