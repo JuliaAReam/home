@@ -1,7 +1,7 @@
 ---
 layout: work
-title: Work
-slug: /work
+title: CV
+slug: /CV
 items:
   - title: My Interest 1
     image:
@@ -16,5 +16,8 @@ items:
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.
+
+<iframe src="/REAM_CV.pdf" width="100%" height="500px">
+    </iframe>
 <br />
 <br />
