@@ -6,10 +6,14 @@ profile_picture:
 ---
 
 <p>
-  Hello! My name is Julia Ream (she/her). I am currently a PhD candidate in the <a href="https://www.math.fsu.edu">Department of Mathematics</a> at Florida State University.
+  Hello! My name is Julia Ream (she/her). I am a PhD candidate in the <a href="https://www.math.fsu.edu">Department of Mathematics</a> at Florida State University.
 </p>
 
 <p>
-  My research interests revolve around hybridized methods for computational fluid dynamics with a focus on complex fluids and multiphysics systems. Examples applications of interest within this area include studying the turbulence mechanics of supercritical carbon dioxide and designing numerical methods for Redox Flow Battery design.
+  My research focuses on hybridized methods in computational fluid dynamics for complex fluids and multiphysics systems.
+</p>
+
+<p>
+  Applications of interest within this area include studying the turbulence mechanics of supercritical carbon dioxide and designing numerical methods for redox flow battery systems.
 </p>
 
