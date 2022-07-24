@@ -10,10 +10,10 @@ profile_picture:
 </p>
 
 <p>
-  My research focuses on hybridized methods in computational fluid dynamics for complex fluids and multiphysics systems.
+  My research involves using hybrid numerical methods to better understand for complex fluids and multiphysics systems.
 </p>
 
 <p>
-  Applications of interest within this area include studying the turbulence mechanics of supercritical carbon dioxide and designing numerical methods for redox flow battery systems.
+  Applications of interest within this area include studying the turbulence mechanics of supercritical carbon dioxide and designing numerical methods for redox flow battery simulations.
 </p>
 
