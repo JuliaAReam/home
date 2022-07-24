@@ -13,6 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Home
+      slug: /
     - name: Test 1
     - name: Test 2
 
