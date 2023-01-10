@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Curriculum Vitae
-slug: /CV
+slug: <a href="\REAM_CV.pdf">/CV</a>
 items:
 
 ---
