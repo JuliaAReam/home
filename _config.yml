@@ -15,7 +15,8 @@ header:
       slug: /
     - name: Research
     - name: Teaching
-    - name: <a href="\REAM_CV.pdf">CV</a>
+    - name: CV
+      slug: /REAM_CV.pdf
     - name: Other
 
 footer:
