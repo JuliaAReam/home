@@ -4,9 +4,15 @@
   padding-bottom: 3em;
 }
 
-.work-bubble {
+.work-bubble-left {
   float: left;
   padding-right: 20px;
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
+}
+.work-bubble-right {
+    floar: right;
+    padding-left: 20px;
+    width: 100px;
+    height: 100px;
 }
