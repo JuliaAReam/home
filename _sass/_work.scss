@@ -11,8 +11,15 @@
   height: 250px;
 }
 .work-bubble-right {
-    floar: right;
+    float: right;
     padding-left: 20px;
     width: 100px;
     height: 100px;
+}
+.work-bubble-bottom {
+    float: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 200px;
+    height: 500px;
 }
