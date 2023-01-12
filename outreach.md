@@ -1,7 +1,7 @@
 ---
 layout: work
-title: Teaching
-slug: /teaching
+title: Outreach
+slug: /outreach
 items:
 ---
 
