@@ -8,7 +8,7 @@ items:
       src: /assets/img/work/water.png
       alt: water
     description1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title2: My Interest 2
+    title2: My Interest 2
     image2:
       src: /assets/img/work/sand.png
       alt: sand
