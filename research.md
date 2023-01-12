@@ -14,6 +14,3 @@ items:
       alt: 
     description: Developed general software framework to build reduced chemical models based on Quasi-Steady State Approximations for incorporation into Exascale Computing Project’s <a href="https://amrex-combustion.github.io/PelePhysics/index.html" target="_blank" rel="noopener noreferrer"><i>PelePhysics</i></a> repository
 ---
-
-<br />
-<br />
