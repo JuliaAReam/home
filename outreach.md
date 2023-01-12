@@ -17,8 +17,7 @@ items:
     image1:
       src: /assets/img/outreach/math_fun_day_logo.jpg
       alt: FSU Math Fun Day Logo - a snail with Fibonacci spiral shell blowing a circuluar bubble displaying the digits of pi along its perimeter
-    description1: Math Fun Day is an open house event filled with exciting rooms overflowing with fun math puzzles, crafts, and games! Past activities included origami, fractal paper sculptures, binary code bracelets, and much more! This event is open to anyone, K-12 and beyond, with all activities being free to the public. Check out the <a href="https://www.math.fsu.edu/MathFunDay/" target="_blank" rel="noopener noreferrer">Math Fun Day homepage</a> for details about upcoming events. Also check out the <a href="https://www.facebook.com/FSUMathFunDay" target="_blank"\
- rel="noopener noreferrer">FaceBook page</a> for fun photos from previous events!
+    description1: Math Fun Day is an open house event filled with exciting rooms overflowing with fun math puzzles, crafts, and games! Past activities included origami, fractal paper sculptures, binary code bracelets, and much more! This event is open to anyone, K-12 and beyond, with all activities being free to the public. Check out the <a href="https://www.math.fsu.edu/MathFunDay/" target="_blank" rel="noopener noreferrer">Math Fun Day homepage</a> for details about upcoming events. Also check out the <a href="https://www.facebook.com/FSUMathFunDay" target="_blank" rel="noopener noreferrer">FaceBook page</a> for fun photos from previous events!
     title2: FSU Math Department Outreach
     image2:
       src: /assets/img/outreach/JMM_tabling.jpeg
