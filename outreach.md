@@ -10,7 +10,7 @@ items:
     description1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     title2: Graduate Student Council, FSU Math Department
     image2:
-      src: /assets/img/outreach/GSU.jpg
+      src: /assets/img/outreach/GSC.jpg
       alt: FSU GSC members for the 2021-2022 academic year
     description2: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
   - title1: Math Fun Day at FSU
